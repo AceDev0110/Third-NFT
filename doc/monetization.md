@@ -1,0 +1,1 @@
+![](./diagrams/nft3-monetization.jpg)

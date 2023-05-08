@@ -1,0 +1,18 @@
+{
+    "synchronize": true,
+    "logging": false,
+    "entities": [
+       "src/model/**/*.ts"
+    ],
+    "cli": {
+       "entitiesDir": "src/entity",
+       "migrationsDir": "src/migration",
+       "subscribersDir": "src/subscriber"
+     },
+    "migrations": [
+       "src/migration/**/*.ts"
+    ],
+    "subscribers": [
+       "src/subscriber/**/*.ts"
+     ]
+ }
